@@ -1,16 +1,15 @@
-# include<iostream>
-Using namespace std;
-int main ()
+#include<iostream>
+using namespace std;
+int main()
 {
-char C1, C2;
-cin >>c1>>c2;
-If (c1==c2) 
-{
-cout << "Igual";
-}
-else
-}
-cout << "Diferente";
-} 
-return 0;
+    int n;
+    cout<<"ingrese un numero";
+    cin>>n;
+    if(n%2==0){
+        cout<<n<<" es numero par";
+    }
+    else {
+        cout<<n<<" es numero impar";
+    }
+    return 0;
 }
