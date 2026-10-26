@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main () {
+char letra
+cout<<"Ingrese una letra minususla";
+cin >> letra
+switch (letra) {
+case "a";
+case "e";
+case "i" ;
+case "o";
+case "u";
+case cout <<"Es una vocal"; break;
+case "y" ;
+cout << suna semivocel"; break;
+defautt:
+cout << "Es una consonante"
+return o
+}
