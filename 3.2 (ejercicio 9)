@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std
+int main () {
+float galones, litros, total;
+cout << "Ingrese la cantidad de galones vendidos"
+cin >> galones
+Litros = galones * 3,785;
+Total = litros * 3,86;
+cout <<< Litros vendidos <<litros
+cout << Total a pagar << total
+return 0; 
+}
