@@ -1,0 +1,18 @@
+#indude <iostream>
+using namespace std;
+int main (){
+Float informática, calculo, fisica;
+Float propina = 100;
+cout<<" Ingrese la nota de informatica",
+cin>> Informatica;
+cout << ingrese la nota de calculo";
+cin >> "calculo"
+cout<<" ingrese la nota de fisica";
+cin>> Fisica;
+If (informatica >=11) {propina = propina+20;} 
+if (calculo>=11) { Propina = propina+20;}
+If (Fisica >=11) { Propina = propina+20;} 
+cout << La propina que recibe es <<< propina;
+return 0;
+
+}
